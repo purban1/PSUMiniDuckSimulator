@@ -17,7 +17,7 @@ public abstract class Duck {
         
     }
     
-    public abstract void displauy();
+    public abstract void display();
     
     public void performFly(){
         flyBehavior.fly();
